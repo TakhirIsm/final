@@ -32,13 +32,6 @@
 - [Мой GitHub-репозиторий](https://github.com/TakhirIsm/final)
 
 
-- [Сайт Postman](https://www.getpostman.com/)
-
-   - Сайт, на котором вы можете найти дополнительную информацию о Postman и его возможностях.
-
-- [Статья о работе с коллекциями Postman](https://www.getpostman.com/docs/v6/collections)
-
-   - Подробная статья о том, как работать с коллекциями в Postman.
 
 
 
