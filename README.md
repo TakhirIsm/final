@@ -8,7 +8,8 @@
 
 Чтобы запустить эту коллекцию, вам потребуется установить и настроить Postman. После этого вы сможете импортировать эту коллекцию в свой проект.
 
-- Ссылка на коллекцию (https://github.com/TakhirIsm/final/files/14002458/final.postman_collection.json)
+- Ссылка на коллекцию (https://github.com/TakhirIsm/final/files/14002726/final.postman_collection.json)
+
 
 1. Импорт коллекции:
 
