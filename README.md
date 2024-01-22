@@ -28,9 +28,6 @@
 
 Пожалуйста, обратитесь к [документации Postman](https://www.getpostman.com/docs/v6/collections) для получения более подробной информации о работе с коллекциями.
 
-## Ссылки
-
-- [Мой GitHub-репозиторий](https://github.com/TakhirIsm/final)
 
 
 
